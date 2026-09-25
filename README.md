@@ -1,4 +1,4 @@
-# Hi, 🌞
+# Hi 🌞
 I'm a Computer Science & Business Computing student, interested in software development, IT systems, data analysis and data forensics.
 
 ## Technical Skills + Tools
